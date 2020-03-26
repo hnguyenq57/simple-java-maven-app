@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51" started-at="2020-03-26T22:07:30 MEZ" finished-at="2020-03-26T22:07:30 MEZ">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51" started-at="2020-03-26T22:07:30 MEZ" finished-at="2020-03-26T22:07:30 MEZ">
+      <class name="com.mycompany.app.AppTest">
+        <test-method status="PASS" signature="setUpStreams()[pri:0, instance:com.mycompany.app.AppTest@4f970963]" name="setUpStreams" is-config="true" duration-ms="7" started-at="2020-03-26T22:07:30 MEZ" finished-at="2020-03-26T22:07:30 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpStreams -->
+        <test-method status="PASS" signature="testAppConstructor()[pri:0, instance:com.mycompany.app.AppTest@4f970963]" name="testAppConstructor" duration-ms="7" started-at="2020-03-26T22:07:30 MEZ" finished-at="2020-03-26T22:07:30 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAppConstructor -->
+        <test-method status="PASS" signature="testAppMain()[pri:0, instance:com.mycompany.app.AppTest@4f970963]" name="testAppMain" duration-ms="2" started-at="2020-03-26T22:07:30 MEZ" finished-at="2020-03-26T22:07:30 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAppMain -->
+        <test-method status="PASS" signature="cleanUpStreams()[pri:0, instance:com.mycompany.app.AppTest@4f970963]" name="cleanUpStreams" is-config="true" duration-ms="0" started-at="2020-03-26T22:07:30 MEZ" finished-at="2020-03-26T22:07:30 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUpStreams -->
+      </class> <!-- com.mycompany.app.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
