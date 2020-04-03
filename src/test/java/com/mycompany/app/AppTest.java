@@ -37,9 +37,9 @@ public class AppTest
       
     	App.main(null);       
         try {
-            AssertJUnit.assertEquals("Hello World2!" + System.getProperty("line.separator"), outContent.toString());
+            AssertJUnit.assertEquals("Hello World3!" + System.getProperty("line.separator"), outContent.toString());
         } catch (AssertionError e) {
-            Assert.fail("\"message\" is not \"Hello World1!\"");
+            Assert.fail("\"message\" is not \"Hello World3!\"");
         }
     }
 
